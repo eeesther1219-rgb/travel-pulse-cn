@@ -34,5 +34,5 @@ for(const [key,s] of current){const old=history.get(key);history.set(key,{...old
 for(const [key,s] of history){if(!current.has(key))s.isCurrent=false;if(now-new Date(s.lastSeen).getTime()>maxAge)history.delete(key)}
 const insights=[...history.values()].sort((a,b)=>(b.isCurrent-a.isCurrent)||(b.score-a.score)||new Date(b.lastSeen)-new Date(a.lastSeen)).slice(0,24);
 const citySignals={};for(const city of Object.keys(CITY_GROUPS))citySignals[city]=insights.filter(x=>x.cities.includes(city));
-const payload={capturedAt:dt,source:'TopHub 公开聚合榜单',retentionDays:7,platformSignals,insights,citySignals,coverage:{'小红书':'暂无稳定公开实时榜单','快手':'暂无稳定公开实时热搜榜单'}};
+const payload={capturedAt:dt,source:'TopHub 公开聚合榜单',retentionDays:7,platformSignals,insights,citySignals};
 await fs.writeFile('data/history.json',JSON.stringify({updatedAt:dt,items:[...history.values()]},null,2)+'\n');await fs.writeFile('data/latest.json',JSON.stringify(payload,null,2)+'\n');console.log(`captured ${platformSignals.length} platforms, ${signals.length} current signals, ${insights.length} retained insights at ${dt}`);

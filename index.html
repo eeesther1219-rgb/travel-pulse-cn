@@ -1,81 +1,9 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="description" content="十城社交媒体出行热点雷达" />
-  <title>出行热力雷达</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
-  <style>
-    .sources-panel{grid-column:1/-1}.source-item{display:flex;align-items:center;justify-content:space-between;padding:14px 12px;border-top:1px solid var(--line);text-decoration:none;color:var(--text);transition:.2s}.source-item:hover{background:#12231e;padding-left:17px}.source-item div{display:flex;flex-direction:column;gap:5px}.source-item b{font-size:13px}.source-item small{color:var(--muted);font-size:10px}.source-item>span{color:var(--lime);font-size:16px}.notice>span{white-space:nowrap}
-  </style>
-</head>
-<body>
-  <div class="grid-bg"></div>
-  <header class="topbar">
-    <a class="brand" href="#"><span class="brand-mark">↗</span><span>TRAVEL PULSE</span><small>出行热力雷达</small></a>
-    <nav><button class="nav-active">趋势总览</button><button>景点雷达</button><button>路线洞察</button></nav>
-    <div class="status"><i></i><span>系统运行中</span><b id="clock">--:--</b></div>
-  </header>
-
-  <main>
-    <section class="hero">
-      <div>
-        <div class="eyebrow"><span>LIVE INTELLIGENCE</span><em>每小时刷新</em></div>
-        <h1>捕捉每一次<br><strong>出行热潮</strong></h1>
-        <p>聚合多平台公开讨论，追踪 10 座城市的热门景点、爆发话题与高讨论路线。</p>
-      </div>
-      <div class="hero-metric"><span>当前监测城市</span><b>10</b><small>京津冀 · 成渝</small></div>
-    </section>
-
-    <section class="notice"><span>PUBLIC WEB</span><p><b>当前展示真实公开搜索信号。</b> 数据来自搜索引擎可访问的新闻、攻略、公开社交页面与文旅信息；不代表平台内部全量，热度为多来源综合信号分。</p><button onclick="document.querySelector('.sources-panel').scrollIntoView()">查看来源 →</button></section>
-
-    <section class="filters">
-      <div class="filter-row"><label>城市</label><div id="cities" class="chips"></div></div>
-      <div class="filter-row"><label>平台</label><div id="platforms" class="chips platform-chips"></div></div>
-    </section>
-
-    <section class="kpis">
-      <article><span>公开搜索样本</span><b id="mentions">--</b><small class="up">附可核验原始链接</small></article>
-      <article><span>热点景点</span><b id="spotCount">--</b><small>覆盖 10 座城市</small></article>
-      <article><span>高讨论路线</span><b id="routeCount">--</b><small class="up">基于近期公开内容</small></article>
-      <article><span>数据可信度</span><b>公开<sup>可核验</sup></b><small class="good">不使用虚构播放量</small></article>
-    </section>
-
-    <section class="dashboard-grid">
-      <article class="panel chart-panel">
-        <div class="panel-head"><div><span>SIGNAL TREND</span><h2>公开搜索信号分布</h2></div><div class="legend"><i></i>综合信号 <i></i>新鲜度</div></div>
-        <div class="chart" id="chart"></div>
-        <div class="chart-labels"><span>00:00</span><span>04:00</span><span>08:00</span><span>12:00</span><span>16:00</span><span>20:00</span><span>现在</span></div>
-      </article>
-
-      <article class="panel pulse-panel">
-        <div class="panel-head"><div><span>LIVE PULSE</span><h2>正在升温</h2></div><b class="live-dot">LIVE</b></div>
-        <div id="pulse"></div>
-      </article>
-
-      <article class="panel ranking-panel">
-        <div class="panel-head"><div><span>TOP ATTRACTIONS</span><h2>热门景点榜</h2></div><button>完整榜单 →</button></div>
-        <div class="rank-head"><span>排名 / 景点</span><span>城市</span><span>热度</span><span>趋势</span></div>
-        <div id="spots"></div>
-      </article>
-
-      <article class="panel routes-panel">
-        <div class="panel-head"><div><span>TRENDING ROUTES</span><h2>高讨论路线</h2></div><button>路线洞察 →</button></div>
-        <div id="routes"></div>
-      </article>
-      <article class="panel sources-panel">
-        <div class="panel-head"><div><span>VERIFIABLE SOURCES</span><h2>最新公开来源</h2></div><button>点击标题核验 →</button></div>
-        <div id="sources"></div>
-      </article>
-    </section>
-  </main>
-
-  <footer><span>TRAVEL PULSE · 出行热力雷达</span><p>数据更新时间 <b id="updated">--</b> · 下一次刷新约 60 分钟后</p><span>公开信息聚合 · 仅供趋势研究</span></footer>
-  <script src="public-data.js"></script>
-  <script src="app.js"></script>
-</body>
-</html>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="十城出行实时热榜"><title>城市热行榜 · CITY TRAVEL WIRE</title><link rel="stylesheet" href="styles.css"></head><body>
+<header><div class="mast"><div class="edition">PUBLIC SIGNALS<br>CN · 10 CITIES</div><div><h1>城市热行榜</h1><p>CITY TRAVEL WIRE</p></div><div class="stamp"><b id="time">--:--</b><span>每小时更新</span></div></div><div class="ticker"><b>实时公开榜单</b><span id="ticker">正在读取最新数据…</span></div></header>
+<main><section class="intro"><div><span class="kicker">TRAVEL INTELLIGENCE / 旅行情报</span><h2>现在，大家<br>在讨论去哪儿？</h2></div><p>追踪 TopHub 公开聚合榜单，从微博、抖音及搜索平台中识别城市、景点和路线信号；同步观察淘宝天猫、京东、快手电商的出行消费趋势。榜单不代表平台全量。</p></section>
+<section class="control"><div><label>城市筛选</label><div id="cities" class="chips"></div></div><div class="updated"><span>数据捕获时间</span><b id="updated">--</b></div></section>
+<section class="lead-grid"><article class="lead"><div class="section-title"><span>01</span><div><b>实时出行热点</b><small>REAL-TIME TRAVEL SIGNALS</small></div></div><div id="travel"></div></article><aside><div class="section-title"><span>02</span><div><b>城市上榜情况</b><small>CITY MATCHES</small></div></div><div id="city-summary"></div><div class="goods-title">出行消费上榜</div><div id="goods"></div></aside></section>
+<div class="section-title platforms-title"><span>03</span><div><b>分平台实时热搜</b><small>PLATFORM BY PLATFORM</small></div></div><section id="platforms" class="platform-grid"></section>
+<div class="section-title platforms-title"><span>04</span><div><b>分平台实时热销</b><small>TAOBAO · TMALL · JD · KUAISHOU</small></div></div><section id="shops" class="platform-grid"></section>
+<section class="unavailable"><div><b>小红书</b><span>暂无稳定公开实时榜单</span></div><div><b>快手热搜</b><span>暂无稳定公开实时榜单</span></div><p>只在存在稳定公开来源时展示实时榜。搜索引擎收录内容时效不等同实时榜，因此不会混入榜单或伪造排名。</p></section>
+</main><footer><b>城市热行榜</b><span>数据源：TopHub 公开聚合榜单 · 原始链接可核验</span><a href="https://github.com/eeesther1219-rgb/travel-pulse-cn">SOURCE ↗</a></footer><script src="app.js"></script></body></html>

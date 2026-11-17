@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-17T01:22:02+08:00",
+  "capturedAt": "2026-11-17T08:44:54+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -9,9 +9,9 @@
       "nodeId": "223",
       "items": [
         {
-          "rank": 7,
+          "rank": 8,
           "title": "狮子座流星雨将迎来极大期",
-          "metric": "936.4万",
+          "metric": "949.6万",
           "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
           "platform": "抖音",
           "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
@@ -31,7 +31,7 @@
           "route": "",
           "type": "天气窗口",
           "why": "天气变化会影响目的地选择、道路条件和户外活动",
-          "score": 94
+          "score": 93
         }
       ]
     },
@@ -45,33 +45,7 @@
       "source": "百度",
       "list": "实时热点",
       "nodeId": "2",
-      "items": [
-        {
-          "rank": 35,
-          "title": "降温日历来了",
-          "metric": "466.6万",
-          "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-          "platform": "百度",
-          "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-          "cities": [
-            "北京",
-            "廊坊",
-            "天津",
-            "沧州",
-            "邯郸",
-            "张家口",
-            "成都",
-            "德阳",
-            "眉山",
-            "重庆"
-          ],
-          "destination": "",
-          "route": "",
-          "type": "天气窗口",
-          "why": "天气变化会影响目的地选择、道路条件和户外活动",
-          "score": 66
-        }
-      ]
+      "items": []
     },
     {
       "source": "夸克",
@@ -79,9 +53,9 @@
       "nodeId": "140",
       "items": [
         {
-          "rank": 12,
+          "rank": 17,
           "title": "多地陆续官宣雪假安排",
-          "metric": "216.6万",
+          "metric": "208.2万",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
           "platform": "夸克",
           "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
@@ -101,16 +75,16 @@
           "route": "",
           "type": "假期窗口",
           "why": "放假安排可能提前释放家庭短途游和周边游需求",
-          "score": 89
+          "score": 84
         }
       ]
     }
   ],
   "insights": [
     {
-      "rank": 7,
+      "rank": 8,
       "title": "狮子座流星雨将迎来极大期",
-      "metric": "936.4万",
+      "metric": "949.6万",
       "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
       "platform": "抖音",
       "cities": [
@@ -127,22 +101,22 @@
       ],
       "type": "天气窗口",
       "why": "天气变化会影响目的地选择、道路条件和户外活动",
-      "score": 94,
+      "score": 93,
       "platforms": [
         "抖音"
       ],
       "key": "狮子座流星雨将迎来极大期",
       "firstSeen": "2026-11-17T01:01:19+08:00",
-      "lastSeen": "2026-11-17T01:22:02+08:00",
+      "lastSeen": "2026-11-17T08:44:54+08:00",
       "isCurrent": true,
       "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
       "destination": "",
       "route": ""
     },
     {
-      "rank": 12,
+      "rank": 17,
       "title": "多地陆续官宣雪假安排",
-      "metric": "216.6万",
+      "metric": "208.2万",
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
       "platform": "夸克",
       "cities": [
@@ -159,47 +133,15 @@
       ],
       "type": "假期窗口",
       "why": "放假安排可能提前释放家庭短途游和周边游需求",
-      "score": 89,
+      "score": 84,
       "platforms": [
         "夸克"
       ],
       "key": "多地陆续官宣雪假安排",
       "firstSeen": "2026-11-17T01:01:19+08:00",
-      "lastSeen": "2026-11-17T01:22:02+08:00",
+      "lastSeen": "2026-11-17T08:44:54+08:00",
       "isCurrent": true,
       "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-      "destination": "",
-      "route": ""
-    },
-    {
-      "rank": 35,
-      "title": "降温日历来了",
-      "metric": "466.6万",
-      "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-      "platform": "百度",
-      "cities": [
-        "北京",
-        "廊坊",
-        "天津",
-        "沧州",
-        "邯郸",
-        "张家口",
-        "成都",
-        "德阳",
-        "眉山",
-        "重庆"
-      ],
-      "type": "天气窗口",
-      "why": "天气变化会影响目的地选择、道路条件和户外活动",
-      "score": 66,
-      "platforms": [
-        "百度"
-      ],
-      "key": "降温日历来了",
-      "firstSeen": "2026-11-17T01:01:19+08:00",
-      "lastSeen": "2026-11-17T01:22:02+08:00",
-      "isCurrent": true,
-      "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
       "destination": "",
       "route": ""
     },
@@ -350,14 +292,46 @@
       "lastSeen": "2026-11-16T08:00:00+08:00",
       "score": 86,
       "isCurrent": false
+    },
+    {
+      "rank": 35,
+      "title": "降温日历来了",
+      "metric": "466.6万",
+      "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+      "platform": "百度",
+      "cities": [
+        "北京",
+        "廊坊",
+        "天津",
+        "沧州",
+        "邯郸",
+        "张家口",
+        "成都",
+        "德阳",
+        "眉山",
+        "重庆"
+      ],
+      "type": "天气窗口",
+      "why": "天气变化会影响目的地选择、道路条件和户外活动",
+      "score": 66,
+      "platforms": [
+        "百度"
+      ],
+      "key": "降温日历来了",
+      "firstSeen": "2026-11-17T01:01:19+08:00",
+      "lastSeen": "2026-11-17T01:22:02+08:00",
+      "isCurrent": false,
+      "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+      "destination": "",
+      "route": ""
     }
   ],
   "citySignals": {
     "北京": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -374,22 +348,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -406,47 +380,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -515,13 +457,45 @@
         "lastSeen": "2026-11-16T08:00:00+08:00",
         "score": 86,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ],
     "廊坊": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -538,22 +512,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -570,47 +544,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -679,13 +621,45 @@
         "lastSeen": "2026-11-16T08:00:00+08:00",
         "score": 86,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ],
     "天津": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -702,22 +676,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -734,47 +708,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -843,13 +785,45 @@
         "lastSeen": "2026-11-16T08:00:00+08:00",
         "score": 86,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ],
     "沧州": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -866,22 +840,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -898,17 +872,41 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "destination": "",
         "route": ""
+      },
+      {
+        "key": "河北多地雨雪降温张家口道路结冰风险",
+        "title": "河北多地雨雪降温，张家口等地关注道路结冰",
+        "type": "道路天气",
+        "why": "雨雪和夜间降温会影响张家口及京津冀跨城线路，顺风车需要重点关注高速通行、上车时间和山区道路状况。",
+        "cities": [
+          "张家口",
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸"
+        ],
+        "destination": "河北及张家口",
+        "route": "京津冀城市间 / 京张方向",
+        "platforms": [
+          "河北广播电视台"
+        ],
+        "url": "https://www.hebtv.com/0/0rmhlm/qy/hbxwlb/lbhj/12599706.shtml",
+        "firstSeen": "2026-11-16T19:16:00+08:00",
+        "lastSeen": "2026-11-16T19:16:00+08:00",
+        "score": 94,
+        "isCurrent": false
       },
       {
         "rank": 35,
@@ -937,41 +935,17 @@
         "key": "降温日历来了",
         "firstSeen": "2026-11-17T01:01:19+08:00",
         "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
+        "isCurrent": false,
         "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
-      },
-      {
-        "key": "河北多地雨雪降温张家口道路结冰风险",
-        "title": "河北多地雨雪降温，张家口等地关注道路结冰",
-        "type": "道路天气",
-        "why": "雨雪和夜间降温会影响张家口及京津冀跨城线路，顺风车需要重点关注高速通行、上车时间和山区道路状况。",
-        "cities": [
-          "张家口",
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸"
-        ],
-        "destination": "河北及张家口",
-        "route": "京津冀城市间 / 京张方向",
-        "platforms": [
-          "河北广播电视台"
-        ],
-        "url": "https://www.hebtv.com/0/0rmhlm/qy/hbxwlb/lbhj/12599706.shtml",
-        "firstSeen": "2026-11-16T19:16:00+08:00",
-        "lastSeen": "2026-11-16T19:16:00+08:00",
-        "score": 94,
-        "isCurrent": false
       }
     ],
     "邯郸": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -988,22 +962,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -1020,17 +994,41 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "destination": "",
         "route": ""
+      },
+      {
+        "key": "河北多地雨雪降温张家口道路结冰风险",
+        "title": "河北多地雨雪降温，张家口等地关注道路结冰",
+        "type": "道路天气",
+        "why": "雨雪和夜间降温会影响张家口及京津冀跨城线路，顺风车需要重点关注高速通行、上车时间和山区道路状况。",
+        "cities": [
+          "张家口",
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸"
+        ],
+        "destination": "河北及张家口",
+        "route": "京津冀城市间 / 京张方向",
+        "platforms": [
+          "河北广播电视台"
+        ],
+        "url": "https://www.hebtv.com/0/0rmhlm/qy/hbxwlb/lbhj/12599706.shtml",
+        "firstSeen": "2026-11-16T19:16:00+08:00",
+        "lastSeen": "2026-11-16T19:16:00+08:00",
+        "score": 94,
+        "isCurrent": false
       },
       {
         "rank": 35,
@@ -1059,41 +1057,17 @@
         "key": "降温日历来了",
         "firstSeen": "2026-11-17T01:01:19+08:00",
         "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
+        "isCurrent": false,
         "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
-      },
-      {
-        "key": "河北多地雨雪降温张家口道路结冰风险",
-        "title": "河北多地雨雪降温，张家口等地关注道路结冰",
-        "type": "道路天气",
-        "why": "雨雪和夜间降温会影响张家口及京津冀跨城线路，顺风车需要重点关注高速通行、上车时间和山区道路状况。",
-        "cities": [
-          "张家口",
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸"
-        ],
-        "destination": "河北及张家口",
-        "route": "京津冀城市间 / 京张方向",
-        "platforms": [
-          "河北广播电视台"
-        ],
-        "url": "https://www.hebtv.com/0/0rmhlm/qy/hbxwlb/lbhj/12599706.shtml",
-        "firstSeen": "2026-11-16T19:16:00+08:00",
-        "lastSeen": "2026-11-16T19:16:00+08:00",
-        "score": 94,
-        "isCurrent": false
       }
     ],
     "张家口": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -1110,22 +1084,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -1142,47 +1116,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -1209,13 +1151,45 @@
         "lastSeen": "2026-11-16T19:16:00+08:00",
         "score": 94,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ],
     "成都": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -1232,22 +1206,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -1264,47 +1238,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -1370,13 +1312,45 @@
         "lastSeen": "2026-11-13T18:00:00+08:00",
         "score": 93,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ],
     "德阳": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -1393,22 +1367,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -1425,47 +1399,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -1531,13 +1473,45 @@
         "lastSeen": "2026-11-13T18:00:00+08:00",
         "score": 93,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ],
     "眉山": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
+        "metric": "949.6万",
         "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "platform": "抖音",
         "cities": [
@@ -1554,22 +1528,22 @@
         ],
         "type": "天气窗口",
         "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
+        "score": 93,
         "platforms": [
           "抖音"
         ],
         "key": "狮子座流星雨将迎来极大期",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
       },
       {
-        "rank": 12,
+        "rank": 17,
         "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
+        "metric": "208.2万",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "platform": "夸克",
         "cities": [
@@ -1586,47 +1560,15 @@
         ],
         "type": "假期窗口",
         "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
+        "score": 84,
         "platforms": [
           "夸克"
         ],
         "key": "多地陆续官宣雪假安排",
         "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
         "isCurrent": true,
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "platform": "百度",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
-        "platforms": [
-          "百度"
-        ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
         "destination": "",
         "route": ""
       },
@@ -1692,72 +1634,6 @@
         "lastSeen": "2026-11-13T18:00:00+08:00",
         "score": 93,
         "isCurrent": false
-      }
-    ],
-    "重庆": [
-      {
-        "rank": 7,
-        "title": "狮子座流星雨将迎来极大期",
-        "metric": "936.4万",
-        "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
-        "platform": "抖音",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 94,
-        "platforms": [
-          "抖音"
-        ],
-        "key": "狮子座流星雨将迎来极大期",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 12,
-        "title": "多地陆续官宣雪假安排",
-        "metric": "216.6万",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "platform": "夸克",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "假期窗口",
-        "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 89,
-        "platforms": [
-          "夸克"
-        ],
-        "key": "多地陆续官宣雪假安排",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
-        "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
       },
       {
         "rank": 35,
@@ -1786,8 +1662,74 @@
         "key": "降温日历来了",
         "firstSeen": "2026-11-17T01:01:19+08:00",
         "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": true,
+        "isCurrent": false,
         "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
+      }
+    ],
+    "重庆": [
+      {
+        "rank": 8,
+        "title": "狮子座流星雨将迎来极大期",
+        "metric": "949.6万",
+        "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
+        "platform": "抖音",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 93,
+        "platforms": [
+          "抖音"
+        ],
+        "key": "狮子座流星雨将迎来极大期",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
+        "isCurrent": true,
+        "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
+        "destination": "",
+        "route": ""
+      },
+      {
+        "rank": 17,
+        "title": "多地陆续官宣雪假安排",
+        "metric": "208.2万",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
+        "platform": "夸克",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "假期窗口",
+        "why": "放假安排可能提前释放家庭短途游和周边游需求",
+        "score": 84,
+        "platforms": [
+          "夸克"
+        ],
+        "key": "多地陆续官宣雪假安排",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
+        "isCurrent": true,
+        "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "destination": "",
         "route": ""
       },
@@ -1809,6 +1751,38 @@
         "lastSeen": "2026-11-15T18:00:00+08:00",
         "score": 89,
         "isCurrent": false
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
       }
     ]
   }

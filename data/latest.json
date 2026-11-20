@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-20T17:56:09+08:00",
+  "capturedAt": "2026-11-21T02:30:58+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -84,27 +84,6 @@
       "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
       "destination": "",
       "route": ""
-    },
-    {
-      "key": "九寨沟满载西岭雪山限流成都周边景区提醒",
-      "title": "九寨沟达到最大承载量，西岭雪山等景区发布限流提醒",
-      "type": "景区限流",
-      "why": "热门景区预约趋紧，临时出发的游客可能转向周边替代景区，也会放大成都至景区方向的接驳和顺风车波动。",
-      "cities": [
-        "成都",
-        "德阳",
-        "眉山"
-      ],
-      "destination": "九寨沟 / 西岭雪山",
-      "route": "成都及周边 → 川西热门景区",
-      "platforms": [
-        "四川本地资讯"
-      ],
-      "url": "https://finance.sina.cn/2026-11-12/detail-iniymsif1266171.d.html",
-      "firstSeen": "2026-11-12T08:00:00+08:00",
-      "lastSeen": "2026-11-13T18:00:00+08:00",
-      "score": 93,
-      "isCurrent": false
     },
     {
       "key": "重庆秋假景区免票近郊游升温",
@@ -1041,27 +1020,6 @@
         "route": ""
       },
       {
-        "key": "九寨沟满载西岭雪山限流成都周边景区提醒",
-        "title": "九寨沟达到最大承载量，西岭雪山等景区发布限流提醒",
-        "type": "景区限流",
-        "why": "热门景区预约趋紧，临时出发的游客可能转向周边替代景区，也会放大成都至景区方向的接驳和顺风车波动。",
-        "cities": [
-          "成都",
-          "德阳",
-          "眉山"
-        ],
-        "destination": "九寨沟 / 西岭雪山",
-        "route": "成都及周边 → 川西热门景区",
-        "platforms": [
-          "四川本地资讯"
-        ],
-        "url": "https://finance.sina.cn/2026-11-12/detail-iniymsif1266171.d.html",
-        "firstSeen": "2026-11-12T08:00:00+08:00",
-        "lastSeen": "2026-11-13T18:00:00+08:00",
-        "score": 93,
-        "isCurrent": false
-      },
-      {
         "rank": 17,
         "title": "多地陆续官宣雪假安排",
         "metric": "208.2万",
@@ -1160,27 +1118,6 @@
         "route": ""
       },
       {
-        "key": "九寨沟满载西岭雪山限流成都周边景区提醒",
-        "title": "九寨沟达到最大承载量，西岭雪山等景区发布限流提醒",
-        "type": "景区限流",
-        "why": "热门景区预约趋紧，临时出发的游客可能转向周边替代景区，也会放大成都至景区方向的接驳和顺风车波动。",
-        "cities": [
-          "成都",
-          "德阳",
-          "眉山"
-        ],
-        "destination": "九寨沟 / 西岭雪山",
-        "route": "成都及周边 → 川西热门景区",
-        "platforms": [
-          "四川本地资讯"
-        ],
-        "url": "https://finance.sina.cn/2026-11-12/detail-iniymsif1266171.d.html",
-        "firstSeen": "2026-11-12T08:00:00+08:00",
-        "lastSeen": "2026-11-13T18:00:00+08:00",
-        "score": 93,
-        "isCurrent": false
-      },
-      {
         "rank": 17,
         "title": "多地陆续官宣雪假安排",
         "metric": "208.2万",
@@ -1277,27 +1214,6 @@
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
-      },
-      {
-        "key": "九寨沟满载西岭雪山限流成都周边景区提醒",
-        "title": "九寨沟达到最大承载量，西岭雪山等景区发布限流提醒",
-        "type": "景区限流",
-        "why": "热门景区预约趋紧，临时出发的游客可能转向周边替代景区，也会放大成都至景区方向的接驳和顺风车波动。",
-        "cities": [
-          "成都",
-          "德阳",
-          "眉山"
-        ],
-        "destination": "九寨沟 / 西岭雪山",
-        "route": "成都及周边 → 川西热门景区",
-        "platforms": [
-          "四川本地资讯"
-        ],
-        "url": "https://finance.sina.cn/2026-11-12/detail-iniymsif1266171.d.html",
-        "firstSeen": "2026-11-12T08:00:00+08:00",
-        "lastSeen": "2026-11-13T18:00:00+08:00",
-        "score": 93,
-        "isCurrent": false
       },
       {
         "rank": 17,

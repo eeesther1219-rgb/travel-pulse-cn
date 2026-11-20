@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:56:09+08:00",
+  "updatedAt": "2026-11-21T02:30:58+08:00",
   "items": [
     {
       "rank": 8,
@@ -96,27 +96,6 @@
       "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
       "destination": "",
       "route": ""
-    },
-    {
-      "key": "九寨沟满载西岭雪山限流成都周边景区提醒",
-      "title": "九寨沟达到最大承载量，西岭雪山等景区发布限流提醒",
-      "type": "景区限流",
-      "why": "热门景区预约趋紧，临时出发的游客可能转向周边替代景区，也会放大成都至景区方向的接驳和顺风车波动。",
-      "cities": [
-        "成都",
-        "德阳",
-        "眉山"
-      ],
-      "destination": "九寨沟 / 西岭雪山",
-      "route": "成都及周边 → 川西热门景区",
-      "platforms": [
-        "四川本地资讯"
-      ],
-      "url": "https://finance.sina.cn/2026-11-12/detail-iniymsif1266171.d.html",
-      "firstSeen": "2026-11-12T08:00:00+08:00",
-      "lastSeen": "2026-11-13T18:00:00+08:00",
-      "score": 93,
-      "isCurrent": false
     },
     {
       "key": "重庆秋假景区免票近郊游升温",

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-22T19:05:53+08:00",
+  "capturedAt": "2026-11-23T02:28:51+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -19,26 +19,7 @@
       "source": "百度",
       "list": "实时热点",
       "nodeId": "2",
-      "items": [
-        {
-          "rank": 18,
-          "title": "四川一公园吊桥坠落 多人落水",
-          "metric": "627.8万",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-          "platform": "百度",
-          "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-          "cities": [
-            "成都",
-            "德阳",
-            "眉山"
-          ],
-          "destination": "",
-          "route": "",
-          "type": "目的地热点",
-          "why": "目的地讨论升温，可能带动周末及短途出行需求",
-          "score": 83
-        }
-      ]
+      "items": []
     },
     {
       "source": "夸克",
@@ -48,31 +29,6 @@
     }
   ],
   "insights": [
-    {
-      "rank": 18,
-      "title": "四川一公园吊桥坠落 多人落水",
-      "metric": "627.8万",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-      "platform": "百度",
-      "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-      "cities": [
-        "成都",
-        "德阳",
-        "眉山"
-      ],
-      "destination": "",
-      "route": "",
-      "type": "目的地热点",
-      "why": "目的地讨论升温，可能带动周末及短途出行需求",
-      "score": 83,
-      "platforms": [
-        "百度"
-      ],
-      "key": "四川一公园吊桥坠落多人落水",
-      "firstSeen": "2026-11-22T19:05:53+08:00",
-      "lastSeen": "2026-11-22T19:05:53+08:00",
-      "isCurrent": true
-    },
     {
       "key": "河北多地雨雪降温张家口道路结冰风险",
       "title": "河北多地雨雪降温，张家口等地关注道路结冰",
@@ -181,6 +137,31 @@
       "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
       "destination": "",
       "route": ""
+    },
+    {
+      "rank": 18,
+      "title": "四川一公园吊桥坠落 多人落水",
+      "metric": "627.8万",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+      "platform": "百度",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+      "cities": [
+        "成都",
+        "德阳",
+        "眉山"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "目的地热点",
+      "why": "目的地讨论升温，可能带动周末及短途出行需求",
+      "score": 83,
+      "platforms": [
+        "百度"
+      ],
+      "key": "四川一公园吊桥坠落多人落水",
+      "firstSeen": "2026-11-22T19:05:53+08:00",
+      "lastSeen": "2026-11-22T19:05:53+08:00",
+      "isCurrent": false
     },
     {
       "rank": 35,
@@ -1036,31 +1017,6 @@
     ],
     "成都": [
       {
-        "rank": 18,
-        "title": "四川一公园吊桥坠落 多人落水",
-        "metric": "627.8万",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-        "platform": "百度",
-        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-        "cities": [
-          "成都",
-          "德阳",
-          "眉山"
-        ],
-        "destination": "",
-        "route": "",
-        "type": "目的地热点",
-        "why": "目的地讨论升温，可能带动周末及短途出行需求",
-        "score": 83,
-        "platforms": [
-          "百度"
-        ],
-        "key": "四川一公园吊桥坠落多人落水",
-        "firstSeen": "2026-11-22T19:05:53+08:00",
-        "lastSeen": "2026-11-22T19:05:53+08:00",
-        "isCurrent": true
-      },
-      {
         "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
         "metric": "949.6万",
@@ -1123,6 +1079,31 @@
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "destination": "",
         "route": ""
+      },
+      {
+        "rank": 18,
+        "title": "四川一公园吊桥坠落 多人落水",
+        "metric": "627.8万",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "platform": "百度",
+        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "cities": [
+          "成都",
+          "德阳",
+          "眉山"
+        ],
+        "destination": "",
+        "route": "",
+        "type": "目的地热点",
+        "why": "目的地讨论升温，可能带动周末及短途出行需求",
+        "score": 83,
+        "platforms": [
+          "百度"
+        ],
+        "key": "四川一公园吊桥坠落多人落水",
+        "firstSeen": "2026-11-22T19:05:53+08:00",
+        "lastSeen": "2026-11-22T19:05:53+08:00",
+        "isCurrent": false
       },
       {
         "rank": 35,
@@ -1182,31 +1163,6 @@
     ],
     "德阳": [
       {
-        "rank": 18,
-        "title": "四川一公园吊桥坠落 多人落水",
-        "metric": "627.8万",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-        "platform": "百度",
-        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-        "cities": [
-          "成都",
-          "德阳",
-          "眉山"
-        ],
-        "destination": "",
-        "route": "",
-        "type": "目的地热点",
-        "why": "目的地讨论升温，可能带动周末及短途出行需求",
-        "score": 83,
-        "platforms": [
-          "百度"
-        ],
-        "key": "四川一公园吊桥坠落多人落水",
-        "firstSeen": "2026-11-22T19:05:53+08:00",
-        "lastSeen": "2026-11-22T19:05:53+08:00",
-        "isCurrent": true
-      },
-      {
         "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
         "metric": "949.6万",
@@ -1269,6 +1225,31 @@
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "destination": "",
         "route": ""
+      },
+      {
+        "rank": 18,
+        "title": "四川一公园吊桥坠落 多人落水",
+        "metric": "627.8万",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "platform": "百度",
+        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "cities": [
+          "成都",
+          "德阳",
+          "眉山"
+        ],
+        "destination": "",
+        "route": "",
+        "type": "目的地热点",
+        "why": "目的地讨论升温，可能带动周末及短途出行需求",
+        "score": 83,
+        "platforms": [
+          "百度"
+        ],
+        "key": "四川一公园吊桥坠落多人落水",
+        "firstSeen": "2026-11-22T19:05:53+08:00",
+        "lastSeen": "2026-11-22T19:05:53+08:00",
+        "isCurrent": false
       },
       {
         "rank": 35,
@@ -1305,31 +1286,6 @@
     ],
     "眉山": [
       {
-        "rank": 18,
-        "title": "四川一公园吊桥坠落 多人落水",
-        "metric": "627.8万",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-        "platform": "百度",
-        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
-        "cities": [
-          "成都",
-          "德阳",
-          "眉山"
-        ],
-        "destination": "",
-        "route": "",
-        "type": "目的地热点",
-        "why": "目的地讨论升温，可能带动周末及短途出行需求",
-        "score": 83,
-        "platforms": [
-          "百度"
-        ],
-        "key": "四川一公园吊桥坠落多人落水",
-        "firstSeen": "2026-11-22T19:05:53+08:00",
-        "lastSeen": "2026-11-22T19:05:53+08:00",
-        "isCurrent": true
-      },
-      {
         "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
         "metric": "949.6万",
@@ -1392,6 +1348,31 @@
         "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
         "destination": "",
         "route": ""
+      },
+      {
+        "rank": 18,
+        "title": "四川一公园吊桥坠落 多人落水",
+        "metric": "627.8万",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "platform": "百度",
+        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "cities": [
+          "成都",
+          "德阳",
+          "眉山"
+        ],
+        "destination": "",
+        "route": "",
+        "type": "目的地热点",
+        "why": "目的地讨论升温，可能带动周末及短途出行需求",
+        "score": 83,
+        "platforms": [
+          "百度"
+        ],
+        "key": "四川一公园吊桥坠落多人落水",
+        "firstSeen": "2026-11-22T19:05:53+08:00",
+        "lastSeen": "2026-11-22T19:05:53+08:00",
+        "isCurrent": false
       },
       {
         "rank": 35,

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-22T10:59:34+08:00",
+  "capturedAt": "2026-11-22T19:05:53+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -7,24 +7,7 @@
       "source": "抖音",
       "list": "热点榜",
       "nodeId": "223",
-      "items": [
-        {
-          "rank": 50,
-          "title": "蒋敦豪成都演唱会",
-          "metric": "764.4万",
-          "url": "https://www.baidu.com/s?wd=%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "platform": "抖音",
-          "sourceUrl": "https://www.douyin.com/search/%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "cities": [
-            "成都"
-          ],
-          "destination": "",
-          "route": "",
-          "type": "活动客流",
-          "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
-          "score": 51
-        }
-      ]
+      "items": []
     },
     {
       "source": "微博",
@@ -36,7 +19,26 @@
       "source": "百度",
       "list": "实时热点",
       "nodeId": "2",
-      "items": []
+      "items": [
+        {
+          "rank": 18,
+          "title": "四川一公园吊桥坠落 多人落水",
+          "metric": "627.8万",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+          "platform": "百度",
+          "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+          "cities": [
+            "成都",
+            "德阳",
+            "眉山"
+          ],
+          "destination": "",
+          "route": "",
+          "type": "目的地热点",
+          "why": "目的地讨论升温，可能带动周末及短途出行需求",
+          "score": 83
+        }
+      ]
     },
     {
       "source": "夸克",
@@ -47,26 +49,28 @@
   ],
   "insights": [
     {
-      "rank": 50,
-      "title": "蒋敦豪成都演唱会",
-      "metric": "764.4万",
-      "url": "https://www.baidu.com/s?wd=%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
-      "platform": "抖音",
-      "sourceUrl": "https://www.douyin.com/search/%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "rank": 18,
+      "title": "四川一公园吊桥坠落 多人落水",
+      "metric": "627.8万",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+      "platform": "百度",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
       "cities": [
-        "成都"
+        "成都",
+        "德阳",
+        "眉山"
       ],
       "destination": "",
       "route": "",
-      "type": "活动客流",
-      "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
-      "score": 51,
+      "type": "目的地热点",
+      "why": "目的地讨论升温，可能带动周末及短途出行需求",
+      "score": 83,
       "platforms": [
-        "抖音"
+        "百度"
       ],
-      "key": "蒋敦豪成都演唱会",
-      "firstSeen": "2026-11-22T10:59:34+08:00",
-      "lastSeen": "2026-11-22T10:59:34+08:00",
+      "key": "四川一公园吊桥坠落多人落水",
+      "firstSeen": "2026-11-22T19:05:53+08:00",
+      "lastSeen": "2026-11-22T19:05:53+08:00",
       "isCurrent": true
     },
     {
@@ -124,25 +128,6 @@
       "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
       "destination": "",
       "route": ""
-    },
-    {
-      "key": "重庆秋假景区免票近郊游升温",
-      "title": "重庆秋假叠加景区优惠，近郊亲子游讨论升温",
-      "type": "假期窗口",
-      "why": "秋假与景区免票、优惠活动重叠，重庆主城至武陵山、金佛山等周边目的地可能出现集中出发需求。",
-      "cities": [
-        "重庆"
-      ],
-      "destination": "重庆近郊景区",
-      "route": "重庆主城 → 周边景区",
-      "platforms": [
-        "重庆本地资讯"
-      ],
-      "url": "https://finance.sina.cn/2026-11-11/detail-iniykehc2392540.d.html",
-      "firstSeen": "2026-11-11T10:00:00+08:00",
-      "lastSeen": "2026-11-15T18:00:00+08:00",
-      "score": 89,
-      "isCurrent": false
     },
     {
       "key": "天津大风降温影响跨城和户外出行",
@@ -228,6 +213,29 @@
       "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
       "destination": "",
       "route": ""
+    },
+    {
+      "rank": 50,
+      "title": "蒋敦豪成都演唱会",
+      "metric": "764.4万",
+      "url": "https://www.baidu.com/s?wd=%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "platform": "抖音",
+      "sourceUrl": "https://www.douyin.com/search/%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "cities": [
+        "成都"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "活动客流",
+      "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
+      "score": 51,
+      "platforms": [
+        "抖音"
+      ],
+      "key": "蒋敦豪成都演唱会",
+      "firstSeen": "2026-11-22T10:59:34+08:00",
+      "lastSeen": "2026-11-22T10:59:34+08:00",
+      "isCurrent": false
     }
   ],
   "citySignals": {
@@ -1028,6 +1036,127 @@
     ],
     "成都": [
       {
+        "rank": 18,
+        "title": "四川一公园吊桥坠落 多人落水",
+        "metric": "627.8万",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "platform": "百度",
+        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "cities": [
+          "成都",
+          "德阳",
+          "眉山"
+        ],
+        "destination": "",
+        "route": "",
+        "type": "目的地热点",
+        "why": "目的地讨论升温，可能带动周末及短途出行需求",
+        "score": 83,
+        "platforms": [
+          "百度"
+        ],
+        "key": "四川一公园吊桥坠落多人落水",
+        "firstSeen": "2026-11-22T19:05:53+08:00",
+        "lastSeen": "2026-11-22T19:05:53+08:00",
+        "isCurrent": true
+      },
+      {
+        "rank": 8,
+        "title": "狮子座流星雨将迎来极大期",
+        "metric": "949.6万",
+        "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
+        "platform": "抖音",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 93,
+        "platforms": [
+          "抖音"
+        ],
+        "key": "狮子座流星雨将迎来极大期",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
+        "destination": "",
+        "route": ""
+      },
+      {
+        "rank": 17,
+        "title": "多地陆续官宣雪假安排",
+        "metric": "208.2万",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
+        "platform": "夸克",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "假期窗口",
+        "why": "放假安排可能提前释放家庭短途游和周边游需求",
+        "score": 84,
+        "platforms": [
+          "夸克"
+        ],
+        "key": "多地陆续官宣雪假安排",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T08:44:54+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
+        "destination": "",
+        "route": ""
+      },
+      {
+        "rank": 35,
+        "title": "降温日历来了",
+        "metric": "466.6万",
+        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "platform": "百度",
+        "cities": [
+          "北京",
+          "廊坊",
+          "天津",
+          "沧州",
+          "邯郸",
+          "张家口",
+          "成都",
+          "德阳",
+          "眉山",
+          "重庆"
+        ],
+        "type": "天气窗口",
+        "why": "天气变化会影响目的地选择、道路条件和户外活动",
+        "score": 66,
+        "platforms": [
+          "百度"
+        ],
+        "key": "降温日历来了",
+        "firstSeen": "2026-11-17T01:01:19+08:00",
+        "lastSeen": "2026-11-17T01:22:02+08:00",
+        "isCurrent": false,
+        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "destination": "",
+        "route": ""
+      },
+      {
         "rank": 50,
         "title": "蒋敦豪成都演唱会",
         "metric": "764.4万",
@@ -1048,6 +1177,33 @@
         "key": "蒋敦豪成都演唱会",
         "firstSeen": "2026-11-22T10:59:34+08:00",
         "lastSeen": "2026-11-22T10:59:34+08:00",
+        "isCurrent": false
+      }
+    ],
+    "德阳": [
+      {
+        "rank": 18,
+        "title": "四川一公园吊桥坠落 多人落水",
+        "metric": "627.8万",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "platform": "百度",
+        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+        "cities": [
+          "成都",
+          "德阳",
+          "眉山"
+        ],
+        "destination": "",
+        "route": "",
+        "type": "目的地热点",
+        "why": "目的地讨论升温，可能带动周末及短途出行需求",
+        "score": 83,
+        "platforms": [
+          "百度"
+        ],
+        "key": "四川一公园吊桥坠落多人落水",
+        "firstSeen": "2026-11-22T19:05:53+08:00",
+        "lastSeen": "2026-11-22T19:05:53+08:00",
         "isCurrent": true
       },
       {
@@ -1147,105 +1303,32 @@
         "route": ""
       }
     ],
-    "德阳": [
+    "眉山": [
       {
-        "rank": 8,
-        "title": "狮子座流星雨将迎来极大期",
-        "metric": "949.6万",
-        "url": "https://www.baidu.com/s?wd=%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
-        "platform": "抖音",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 93,
-        "platforms": [
-          "抖音"
-        ],
-        "key": "狮子座流星雨将迎来极大期",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T08:44:54+08:00",
-        "isCurrent": false,
-        "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 17,
-        "title": "多地陆续官宣雪假安排",
-        "metric": "208.2万",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "platform": "夸克",
-        "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
-          "成都",
-          "德阳",
-          "眉山",
-          "重庆"
-        ],
-        "type": "假期窗口",
-        "why": "放假安排可能提前释放家庭短途游和周边游需求",
-        "score": 84,
-        "platforms": [
-          "夸克"
-        ],
-        "key": "多地陆续官宣雪假安排",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T08:44:54+08:00",
-        "isCurrent": false,
-        "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E5%AE%98%E5%AE%A3%E9%9B%AA%E5%81%87%E5%AE%89%E6%8E%92",
-        "destination": "",
-        "route": ""
-      },
-      {
-        "rank": 35,
-        "title": "降温日历来了",
-        "metric": "466.6万",
-        "url": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
+        "rank": 18,
+        "title": "四川一公园吊桥坠落 多人落水",
+        "metric": "627.8万",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
         "platform": "百度",
+        "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
         "cities": [
-          "北京",
-          "廊坊",
-          "天津",
-          "沧州",
-          "邯郸",
-          "张家口",
           "成都",
           "德阳",
-          "眉山",
-          "重庆"
+          "眉山"
         ],
-        "type": "天气窗口",
-        "why": "天气变化会影响目的地选择、道路条件和户外活动",
-        "score": 66,
+        "destination": "",
+        "route": "",
+        "type": "目的地热点",
+        "why": "目的地讨论升温，可能带动周末及短途出行需求",
+        "score": 83,
         "platforms": [
           "百度"
         ],
-        "key": "降温日历来了",
-        "firstSeen": "2026-11-17T01:01:19+08:00",
-        "lastSeen": "2026-11-17T01:22:02+08:00",
-        "isCurrent": false,
-        "sourceUrl": "https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86",
-        "destination": "",
-        "route": ""
-      }
-    ],
-    "眉山": [
+        "key": "四川一公园吊桥坠落多人落水",
+        "firstSeen": "2026-11-22T19:05:53+08:00",
+        "lastSeen": "2026-11-22T19:05:53+08:00",
+        "isCurrent": true
+      },
       {
         "rank": 8,
         "title": "狮子座流星雨将迎来极大期",
@@ -1375,25 +1458,6 @@
         "sourceUrl": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
         "destination": "",
         "route": ""
-      },
-      {
-        "key": "重庆秋假景区免票近郊游升温",
-        "title": "重庆秋假叠加景区优惠，近郊亲子游讨论升温",
-        "type": "假期窗口",
-        "why": "秋假与景区免票、优惠活动重叠，重庆主城至武陵山、金佛山等周边目的地可能出现集中出发需求。",
-        "cities": [
-          "重庆"
-        ],
-        "destination": "重庆近郊景区",
-        "route": "重庆主城 → 周边景区",
-        "platforms": [
-          "重庆本地资讯"
-        ],
-        "url": "https://finance.sina.cn/2026-11-11/detail-iniykehc2392540.d.html",
-        "firstSeen": "2026-11-11T10:00:00+08:00",
-        "lastSeen": "2026-11-15T18:00:00+08:00",
-        "score": 89,
-        "isCurrent": false
       },
       {
         "rank": 17,

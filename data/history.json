@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:59:34+08:00",
+  "updatedAt": "2026-11-22T19:05:53+08:00",
   "items": [
     {
       "rank": 8,
@@ -98,25 +98,6 @@
       "route": ""
     },
     {
-      "key": "重庆秋假景区免票近郊游升温",
-      "title": "重庆秋假叠加景区优惠，近郊亲子游讨论升温",
-      "type": "假期窗口",
-      "why": "秋假与景区免票、优惠活动重叠，重庆主城至武陵山、金佛山等周边目的地可能出现集中出发需求。",
-      "cities": [
-        "重庆"
-      ],
-      "destination": "重庆近郊景区",
-      "route": "重庆主城 → 周边景区",
-      "platforms": [
-        "重庆本地资讯"
-      ],
-      "url": "https://finance.sina.cn/2026-11-11/detail-iniykehc2392540.d.html",
-      "firstSeen": "2026-11-11T10:00:00+08:00",
-      "lastSeen": "2026-11-15T18:00:00+08:00",
-      "score": 89,
-      "isCurrent": false
-    },
-    {
       "key": "河北多地雨雪降温张家口道路结冰风险",
       "title": "河北多地雨雪降温，张家口等地关注道路结冰",
       "type": "道路天气",
@@ -182,6 +163,31 @@
       "key": "蒋敦豪成都演唱会",
       "firstSeen": "2026-11-22T10:59:34+08:00",
       "lastSeen": "2026-11-22T10:59:34+08:00",
+      "isCurrent": false
+    },
+    {
+      "rank": 18,
+      "title": "四川一公园吊桥坠落 多人落水",
+      "metric": "627.8万",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD%20%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+      "platform": "百度",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%9B%AD%E5%90%8A%E6%A1%A5%E5%9D%A0%E8%90%BD+%E5%A4%9A%E4%BA%BA%E8%90%BD%E6%B0%B4",
+      "cities": [
+        "成都",
+        "德阳",
+        "眉山"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "目的地热点",
+      "why": "目的地讨论升温，可能带动周末及短途出行需求",
+      "score": 83,
+      "platforms": [
+        "百度"
+      ],
+      "key": "四川一公园吊桥坠落多人落水",
+      "firstSeen": "2026-11-22T19:05:53+08:00",
+      "lastSeen": "2026-11-22T19:05:53+08:00",
       "isCurrent": true
     }
   ]

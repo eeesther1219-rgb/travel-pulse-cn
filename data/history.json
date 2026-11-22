@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:08:53+08:00",
+  "updatedAt": "2026-11-22T10:59:34+08:00",
   "items": [
     {
       "rank": 8,
@@ -160,6 +160,29 @@
       "lastSeen": "2026-11-16T08:00:00+08:00",
       "score": 86,
       "isCurrent": false
+    },
+    {
+      "rank": 50,
+      "title": "蒋敦豪成都演唱会",
+      "metric": "764.4万",
+      "url": "https://www.baidu.com/s?wd=%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "platform": "抖音",
+      "sourceUrl": "https://www.douyin.com/search/%E8%92%8B%E6%95%A6%E8%B1%AA%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "cities": [
+        "成都"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "活动客流",
+      "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
+      "score": 51,
+      "platforms": [
+        "抖音"
+      ],
+      "key": "蒋敦豪成都演唱会",
+      "firstSeen": "2026-11-22T10:59:34+08:00",
+      "lastSeen": "2026-11-22T10:59:34+08:00",
+      "isCurrent": true
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-24T13:55:18+08:00",
+  "capturedAt": "2026-11-25T01:30:34+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -25,33 +25,7 @@
       "source": "夸克",
       "list": "热搜榜",
       "nodeId": "140",
-      "items": [
-        {
-          "rank": 8,
-          "title": "多地景区密集免票",
-          "metric": "231.2万",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%86%E9%9B%86%E5%85%8D%E7%A5%A8",
-          "platform": "夸克",
-          "sourceUrl": "https://so.m.sm.cn/s?q=%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%86%E9%9B%86%E5%85%8D%E7%A5%A8",
-          "cities": [
-            "北京",
-            "廊坊",
-            "天津",
-            "沧州",
-            "邯郸",
-            "张家口",
-            "成都",
-            "德阳",
-            "眉山",
-            "重庆"
-          ],
-          "destination": "",
-          "route": "",
-          "type": "目的地热点",
-          "why": "目的地讨论升温，可能带动周末及短途出行需求",
-          "score": 93
-        }
-      ]
+      "items": []
     }
   ],
   "insights": [
@@ -85,7 +59,7 @@
       "key": "多地景区密集免票",
       "firstSeen": "2026-11-24T13:55:18+08:00",
       "lastSeen": "2026-11-24T13:55:18+08:00",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "rank": 18,
@@ -168,7 +142,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ],
     "廊坊": [
@@ -202,7 +176,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ],
     "天津": [
@@ -236,7 +210,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ],
     "沧州": [
@@ -270,7 +244,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ],
     "邯郸": [
@@ -304,7 +278,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ],
     "张家口": [
@@ -338,7 +312,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ],
     "成都": [
@@ -372,7 +346,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       },
       {
         "rank": 18,
@@ -454,7 +428,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       },
       {
         "rank": 18,
@@ -513,7 +487,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       },
       {
         "rank": 18,
@@ -572,7 +546,7 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
-        "isCurrent": true
+        "isCurrent": false
       }
     ]
   }

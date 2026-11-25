@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:37:52+08:00",
+  "updatedAt": "2026-11-26T06:25:03+08:00",
   "items": [
     {
       "rank": 50,
@@ -80,6 +80,52 @@
       "firstSeen": "2026-11-24T13:55:18+08:00",
       "lastSeen": "2026-11-24T13:55:18+08:00",
       "isCurrent": false
+    },
+    {
+      "rank": 27,
+      "title": "孙颖莎王曼昱在成都公园打球",
+      "metric": "543.2万",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9C%A8%E6%88%90%E9%83%BD%E5%85%AC%E5%9B%AD%E6%89%93%E7%90%83",
+      "platform": "百度",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9C%A8%E6%88%90%E9%83%BD%E5%85%AC%E5%9B%AD%E6%89%93%E7%90%83",
+      "cities": [
+        "成都"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "目的地热点",
+      "why": "目的地讨论升温，可能带动周末及短途出行需求",
+      "score": 74,
+      "platforms": [
+        "百度"
+      ],
+      "key": "孙颖莎王曼昱在成都公园打球",
+      "firstSeen": "2026-11-26T06:25:03+08:00",
+      "lastSeen": "2026-11-26T06:25:03+08:00",
+      "isCurrent": true
+    },
+    {
+      "rank": 45,
+      "title": "北京雨燕完整迁徙路线被精准记录",
+      "metric": "371.9万",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%9B%A8%E7%87%95%E5%AE%8C%E6%95%B4%E8%BF%81%E5%BE%99%E8%B7%AF%E7%BA%BF%E8%A2%AB%E7%B2%BE%E5%87%86%E8%AE%B0%E5%BD%95",
+      "platform": "百度",
+      "sourceUrl": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%9B%A8%E7%87%95%E5%AE%8C%E6%95%B4%E8%BF%81%E5%BE%99%E8%B7%AF%E7%BA%BF%E8%A2%AB%E7%B2%BE%E5%87%86%E8%AE%B0%E5%BD%95",
+      "cities": [
+        "北京"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "目的地热点",
+      "why": "目的地讨论升温，可能带动周末及短途出行需求",
+      "score": 56,
+      "platforms": [
+        "百度"
+      ],
+      "key": "北京雨燕完整迁徙路线被精准记录",
+      "firstSeen": "2026-11-26T06:25:03+08:00",
+      "lastSeen": "2026-11-26T06:25:03+08:00",
+      "isCurrent": true
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:08:57+08:00",
+  "updatedAt": "2026-11-28T02:51:05+08:00",
   "items": [
     {
       "rank": 50,
@@ -126,6 +126,29 @@
       "firstSeen": "2026-11-26T06:25:03+08:00",
       "lastSeen": "2026-11-26T06:25:03+08:00",
       "isCurrent": false
+    },
+    {
+      "rank": 11,
+      "title": "侯明昊北京演唱会",
+      "metric": "894.1万",
+      "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "platform": "抖音",
+      "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "cities": [
+        "北京"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "活动客流",
+      "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
+      "score": 90,
+      "platforms": [
+        "抖音"
+      ],
+      "key": "侯明昊北京演唱会",
+      "firstSeen": "2026-11-28T02:51:05+08:00",
+      "lastSeen": "2026-11-28T02:51:05+08:00",
+      "isCurrent": true
     }
   ]
 }

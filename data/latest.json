@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-28T09:53:26+08:00",
+  "capturedAt": "2026-11-28T18:13:22+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -7,24 +7,7 @@
       "source": "抖音",
       "list": "热点榜",
       "nodeId": "223",
-      "items": [
-        {
-          "rank": 11,
-          "title": "侯明昊北京演唱会",
-          "metric": "929.2万",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "platform": "抖音",
-          "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "cities": [
-            "北京"
-          ],
-          "destination": "",
-          "route": "",
-          "type": "活动客流",
-          "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
-          "score": 90
-        }
-      ]
+      "items": []
     },
     {
       "source": "微博",
@@ -46,29 +29,6 @@
     }
   ],
   "insights": [
-    {
-      "rank": 11,
-      "title": "侯明昊北京演唱会",
-      "metric": "929.2万",
-      "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-      "platform": "抖音",
-      "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-      "cities": [
-        "北京"
-      ],
-      "destination": "",
-      "route": "",
-      "type": "活动客流",
-      "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
-      "score": 90,
-      "platforms": [
-        "抖音"
-      ],
-      "key": "侯明昊北京演唱会",
-      "firstSeen": "2026-11-28T02:51:05+08:00",
-      "lastSeen": "2026-11-28T09:53:26+08:00",
-      "isCurrent": true
-    },
     {
       "rank": 8,
       "title": "多地景区密集免票",
@@ -99,6 +59,29 @@
       "key": "多地景区密集免票",
       "firstSeen": "2026-11-24T13:55:18+08:00",
       "lastSeen": "2026-11-24T13:55:18+08:00",
+      "isCurrent": false
+    },
+    {
+      "rank": 11,
+      "title": "侯明昊北京演唱会",
+      "metric": "929.2万",
+      "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "platform": "抖音",
+      "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "cities": [
+        "北京"
+      ],
+      "destination": "",
+      "route": "",
+      "type": "活动客流",
+      "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
+      "score": 90,
+      "platforms": [
+        "抖音"
+      ],
+      "key": "侯明昊北京演唱会",
+      "firstSeen": "2026-11-28T02:51:05+08:00",
+      "lastSeen": "2026-11-28T09:53:26+08:00",
       "isCurrent": false
     },
     {
@@ -199,29 +182,6 @@
   "citySignals": {
     "北京": [
       {
-        "rank": 11,
-        "title": "侯明昊北京演唱会",
-        "metric": "929.2万",
-        "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-        "platform": "抖音",
-        "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-        "cities": [
-          "北京"
-        ],
-        "destination": "",
-        "route": "",
-        "type": "活动客流",
-        "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
-        "score": 90,
-        "platforms": [
-          "抖音"
-        ],
-        "key": "侯明昊北京演唱会",
-        "firstSeen": "2026-11-28T02:51:05+08:00",
-        "lastSeen": "2026-11-28T09:53:26+08:00",
-        "isCurrent": true
-      },
-      {
         "rank": 8,
         "title": "多地景区密集免票",
         "metric": "231.2万",
@@ -251,6 +211,29 @@
         "key": "多地景区密集免票",
         "firstSeen": "2026-11-24T13:55:18+08:00",
         "lastSeen": "2026-11-24T13:55:18+08:00",
+        "isCurrent": false
+      },
+      {
+        "rank": 11,
+        "title": "侯明昊北京演唱会",
+        "metric": "929.2万",
+        "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "platform": "抖音",
+        "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "cities": [
+          "北京"
+        ],
+        "destination": "",
+        "route": "",
+        "type": "活动客流",
+        "why": "大型活动可能推高局部交通、酒店和夜间出行需求",
+        "score": 90,
+        "platforms": [
+          "抖音"
+        ],
+        "key": "侯明昊北京演唱会",
+        "firstSeen": "2026-11-28T02:51:05+08:00",
+        "lastSeen": "2026-11-28T09:53:26+08:00",
         "isCurrent": false
       },
       {

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-28T02:51:05+08:00",
+  "capturedAt": "2026-11-28T09:53:26+08:00",
   "source": "TopHub 公开聚合榜单",
   "retentionDays": 7,
   "platformSignals": [
@@ -11,7 +11,7 @@
         {
           "rank": 11,
           "title": "侯明昊北京演唱会",
-          "metric": "894.1万",
+          "metric": "929.2万",
           "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
           "platform": "抖音",
           "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
@@ -49,7 +49,7 @@
     {
       "rank": 11,
       "title": "侯明昊北京演唱会",
-      "metric": "894.1万",
+      "metric": "929.2万",
       "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
       "platform": "抖音",
       "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
@@ -66,7 +66,7 @@
       ],
       "key": "侯明昊北京演唱会",
       "firstSeen": "2026-11-28T02:51:05+08:00",
-      "lastSeen": "2026-11-28T02:51:05+08:00",
+      "lastSeen": "2026-11-28T09:53:26+08:00",
       "isCurrent": true
     },
     {
@@ -201,7 +201,7 @@
       {
         "rank": 11,
         "title": "侯明昊北京演唱会",
-        "metric": "894.1万",
+        "metric": "929.2万",
         "url": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
         "platform": "抖音",
         "sourceUrl": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
@@ -218,7 +218,7 @@
         ],
         "key": "侯明昊北京演唱会",
         "firstSeen": "2026-11-28T02:51:05+08:00",
-        "lastSeen": "2026-11-28T02:51:05+08:00",
+        "lastSeen": "2026-11-28T09:53:26+08:00",
         "isCurrent": true
       },
       {
